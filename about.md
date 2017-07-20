@@ -6,7 +6,9 @@ permalink: /about/
 
 {% include image.html url="/images/ygprofile.jpg" caption="Me at Gas Works Park in Seattle." width=300 align="right" %}
 
-I am a postdoctoral fellow in Public Health Division of Fred Hutchinson Cancer Research Center. My research interests broadly lie on unsupervised learning from data and public health studies. During the (post-)doctoral training, I focused on inferences on large-scale covariance matrices, longitudinal data analysis, and survival analysis. My thesis deals with positive definiteness of structured covariance matrix estimation and its application for rehabilitative speech treatment for Parkinson's disease patients and Markowitz's portfolio optimization problem. I also have involved in research on random matrix theory, cohort study, electronic medical record, and analysis of mass-spectrometry data.
+I am a postdoctoral fellow in Public Health Division of Fred Hutchinson Cancer Research Center. 
+My research interests broadly lie in machine learning, multivariate analysis, optimization, and causal inference. In particular, my current works are focused on developing high- dimensional and robust inferences for personalized medicine. When I was at SNU, I focused on inferences on large-scale covariance matrices, longitudinal data analysis, and survival analysis. As a collaborator, I have been involved in projects on cohort studies, electronic health records, and mass-spectrometry data.
+
 
 ### Experience
 
