@@ -20,7 +20,7 @@ permalink: /research/
 
 ### Personalized medicine
 
-* (2017) Individualized Treatment Regime for Personalized Medicine: A Review. In *Quantitative Bio-Science*. [Link](https://doi.org/10.22283/qbs.2017.36.1.7)
+* (2017) [Individualized Treatment Regime for Personalized Medicine: A Review.](https://doi.org/10.22283/qbs.2017.36.1.7) In *Quantitative Bio-Science*.
 
 ### Covariance matrix
 
