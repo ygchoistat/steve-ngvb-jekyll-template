@@ -2,28 +2,34 @@
 layout: page
 title: Research
 description: This page includes research materials.
+permalink: /research/
 ---
 
-### Working papers 
 
-* Hypothesis testings on individualized treatment rules. (with Y. Zhao and Y. Ning)
-* EHR model for childhood obesity prevention surveillance system (with Y. Zhao, L. Hanrahan, and D. Norton)
+## Publications and preprints
+
+### Work in progress 
+
+* Hypothesis testings on individualized treatment rules. (with [Yingqi Zhao](https://www.fredhutch.org/en/labs/profiles/zhao-yingqi.html) and [Yang Ning](http://yangning.stat.cornell.edu/))
+* EHR model for childhood obesity prevention surveillance system (with [Yingqi Zhao](https://www.fredhutch.org/en/labs/profiles/zhao-yingqi.html), [Larry Hanrahan](http://www.fammed.wisc.edu/directory/16844/) and [Derek Norton](https://www.biostat.wisc.edu/content/norton-derek))
+* Precision matrix estimation recovering both sparse and dense signals, with GPU parallelization (with [Donghyeon Yu](https://sites.google.com/site/dhyeonyu/))
 
 ### Personalized medicine
 
-* __Choi, Y.-G.__ (2017). Individualized Treatment Regime for Personalized Medicine: A Review. Quantitative Bio-Science, 36(1), 7–13. [Link](https://doi.org/10.22283/qbs.2017.36.1.7)
+* (2017/06) Individualized Treatment Regime for Personalized Medicine: A Review. In *Quantitative Bio-Science*. [Link](https://doi.org/10.22283/qbs.2017.36.1.7)
 
-### Covariance matrices
+### Covariance matrix
 
-* __Choi, Y.-G.__, Ng, C. T., & Lim, J. (2017). Regularized LRT for large scale covariance matrices: One sample problem. Journal of Statistical Planning and Inference, 180, 108–123. [Link](https://doi.org/10.1016/j.jspi.2016.06.006)
-* Kwon, Y., __Choi, Y.-G.__, Park, T., Ziegler, A., & Paik, M. C. (2017). Generalized estimating equations with stabilized working correlation structure. Computational Statistics & Data Analysis, 106, 1–11. [Link](https://doi.org/10.1016/j.csda.2016.08.016)
-* __Choi, Y.-G.__, Lim, J., Roy, A., & Park, J. (2016). Positive-definite modification of covariance matrix estimators via linear shrinkage. arXiv Preprint. [Link](http://arxiv.org/abs/1606.03814)
+* (2017/02) Generalized estimating equations with stabilized working correlation structure. In *Computational Statistics & Data Analysis*. [Link](https://doi.org/10.1016/j.csda.2016.08.016) (with [Yongchan Kwon](https://www.researchgate.net/profile/Yongchan_Kwon), [Andreas Ziegler](http://inflammation-at-interfaces.de/en/profile/members/members/andreas-ziegler), [Taesung Park](http://bibs.snu.ac.kr/) and [Myunghee Cho Paik](http://stat2.jnu.ac.kr/~mhcho/))
+* (2017/01) Regularized LRT for large scale covariance matrices: One sample problem. In *Journal of Statistical Planning and Inference*. [Link](https://doi.org/10.1016/j.jspi.2016.06.006) (with [Chi Tim Ng](https://scholar.google.com.hk/citations?hl=zh-TW&user=91bnClD6VggC&view_op=list_works&sortby=pubdate) and [Johan Lim](https://stat.snu.ac.kr/johanlim/))
+* (2016) High-dimensional Markowitz portfolio optimization problem: Empirical comparison of covariance matrix estimators. *Submitted*. (with Sujung Choi and [Johan Lim](https://stat.snu.ac.kr/johanlim/))
+* (2015) Positive-definite modification of covariance matrix estimators via linear shrinkage. *Submitted*. [arXiv](http://arxiv.org/abs/1606.03814) (with [Anindya Roy](http://www.math.umbc.edu/~anindya/), [Junyong Park](http://www.math.umbc.edu/~junpark/) and [Johan Lim](https://stat.snu.ac.kr/johanlim/))
 
 ### Survival analysis
 
-* __Choi, Y.-G.__, Tsai, W.-Y., & Paik, M. C. (2017). A general class of quasi-independence tests for left-truncated right-censored data. Under revision..
+* (2016) A general class of quasi-independence tests for left-truncated right-censored data. Accepted by *Statistica Sinica*. (with [Wei-Yann Tsai](https://www.mailman.columbia.edu/people/our-faculty/wt5) and [Myunghee Cho Paik](http://stat2.jnu.ac.kr/~mhcho/))
 
 ### Colloboration with other disciplines
 
-* Nguyen, H. T. et al. Lee, D. K., __Choi, Y. G.__, Min, J. E., Yoon, S. J., Yu, Y. H., … Park, J. H. (2016). A 1H NMR-based metabolomics approach to evaluate the geographical authenticity of herbal medicine and its application in building a model effectively assessing the mixing proportion of intentional admixtures: A case study of Panax ginseng. Metabolomics fo. Journal of Pharmaceutical and Biomedical Analysis, 124, 120–128. [Link](https://doi.org/10.1016/j.jpba.2016.02.028)
-* Um, J. a, Choi, __Y.-G.__, Lee, D.-K., Lee, Y. S., Lim, C. J., Youn, Y. a, … Lee, J. (2013). Discrimination between genetically identical peony roots from different regions of origin based on 1H-nuclear magnetic resonance spectroscopy-based metabolomics: determination of the geographical origins and estimation of the mixing proportions of blended. Analytical and Bioanalytical Chemistry, 405(23), 7523–34. [Link](https://doi.org/10.1007/s00216-013-7182-9)
+* (2016) A 1H NMR-based metabolomics approach to evaluate the geographical authenticity of herbal medicine and its application in building a model effectively assessing the mixing proportion of intentional admixtures: A case study of Panax ginseng. In *Journal of Pharmaceutical and Biomedical Analysis*. [Link](https://doi.org/10.1016/j.jpba.2016.02.028) (with pharmacologists in [Sungwon Kwon's Lab](http://www.snupharm.ac.kr/swkwon/intex.asp).)
+* (2013) Discrimination between genetically identical peony roots from different regions of origin based on 1H-nuclear magnetic resonance spectroscopy-based metabolomics: determination of the geographical origins and estimation of the mixing proportions of blended. In *Analytical and Bioanalytical Chemistry*. [Link](https://doi.org/10.1007/s00216-013-7182-9) (with pharmacologists in [Sungwon Kwon's Lab](http://www.snupharm.ac.kr/swkwon/intex.asp).)
