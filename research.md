@@ -33,7 +33,7 @@ permalink: /research/
 
 ### Survival analysis
 
-* (2016) A general class of quasi-independence tests for left-truncated right-censored data. Accepted by *Statistica Sinica*. (with [Wei-Yann Tsai](https://www.mailman.columbia.edu/people/our-faculty/wt5) and [Myunghee Cho Paik](http://stat2.jnu.ac.kr/~mhcho/))
+* (2016) A general class of quasi-independence tests for left-truncated right-censored data. Accepted by *Statistica Sinica*. [[arXiv]](https://arxiv.org/pdf/1709.03555.pdf) (with [Wei-Yann Tsai](https://www.mailman.columbia.edu/people/our-faculty/wt5) and [Myunghee Cho Paik](http://stat2.jnu.ac.kr/~mhcho/))
 
 ### Colloboration with other disciplines
 
