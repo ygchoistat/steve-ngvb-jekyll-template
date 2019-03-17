@@ -13,7 +13,7 @@ Almost all links are written in Korean.
 ### About doing research
 
 * [[대학원생 때 알았더라면 좋았을 것들]](http://gradschoolstory.net/)
-* 김우재 (타운랩, Univ. of Ottawa) [[facebook]](https://www.facebook.com/heterosis.kim)
+* 김우재 (타운랩 / Univ. of Ottawa) [[facebook]](https://www.facebook.com/heterosis.kim)
 * 남궁석 [[Secret Lab of Mad Scientist]](https://www.facebook.com/madscietistwordpress) [[facebook]](https://www.facebook.com/suk.namgoong) 
 
 
@@ -44,7 +44,7 @@ Almost all links are written in Korean.
 
 ### Digital healthcare
 
-* 신수용 (성균관대학교 디지털헬스학과) [[blog]](https://sooyongshin.wordpress.com/) [[facebook]](https://www.facebook.com/sooyong.shin.3)
+* 신수용 (성균관대 디지털헬스학과) [[blog]](https://sooyongshin.wordpress.com/) [[facebook]](https://www.facebook.com/sooyong.shin.3)
 * 최윤섭 (Digital Healthcare Partners, Inc.) [[blog]](www.yoonsupchoi.com
 ) [[facebook]](https://www.facebook.com/yoonsup.choi)
 

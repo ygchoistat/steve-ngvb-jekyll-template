@@ -15,7 +15,7 @@ permalink: /research/
 
 ### Working papers 
 
-* __Choi, Y.-G.__ Hanrahan, L. H. and Norton, D. \& Zhao, Y.-Q. (2018). Penalty-based outlier detection and prevalence smoothing for regional childhood obesity surveillance from electronic health records. *Submitted*. [arXiv](https://arxiv.org/abs/1804.05430)
+* __Choi, Y.-G.__ Hanrahan, L. H. and Norton, D. & Zhao, Y.-Q. (2018). Penalty-based outlier detection and prevalence smoothing for regional childhood obesity surveillance from electronic health records. *Submitted*. [arXiv](https://arxiv.org/abs/1804.05430)
 * Hypothesis testings on individualized treatment rules from high-dimensional observational studies. (with Y. Zhao and Y. Ning)
 * Precision matrix estimation recovering both sparse and dense signals, with GPU parallelization (with D. Yu)
 
@@ -36,7 +36,7 @@ To appear in *Journal of Multivariate Analysis*, 171, 234-249.  [Link](https://d
 
 ### Domestic journals
 
-* [3] __Choi, Y.-G.__ \& Yu, D. (2019). Causal inference from nonrandomized data: Key concepts and recent trends. To appear in *Korean Journal of Applied Statistics*. [Link](https://www.dropbox.com/s/oqqb7qjj8haj9nk/CausalObsData_v3.pdf?dl=0)
-* [2] __Choi, Y.-G.__, Jeong, S., \& Yu, D. (2018 Dec). A study on bias effect on model selection criteria in graphical lasso. *Quantitative Bio-Science*, 37(2), 133-141. [Link](https://doi.org/10.22283/qbs.2018.37.2.133)
+* [3] __Choi, Y.-G.__ & Yu, D. (2019). Causal inference from nonrandomized data: Key concepts and recent trends. To appear in *Korean Journal of Applied Statistics*. [Link](https://www.dropbox.com/s/oqqb7qjj8haj9nk/CausalObsData_v3.pdf?dl=0)
+* [2] __Choi, Y.-G.__, Jeong, S., & Yu, D. (2018 Dec). A study on bias effect on model selection criteria in graphical lasso. *Quantitative Bio-Science*, 37(2), 133-141. [Link](https://doi.org/10.22283/qbs.2018.37.2.133)
 * [1] __Choi, Y.-G.__ (2017 Jun). Individualized Treatment Regime for Personalized Medicine: A Review. *Quantitative Bio-Science*, 36(1), 7–13. [Link](https://doi.org/10.22283/qbs.2017.36.1.7)
 
