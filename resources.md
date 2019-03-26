@@ -66,7 +66,7 @@ Almost all links are written in Korean.
 
 ### Others
 
-* 김승섭 (고려대 보건정책관리학부) [[rainbow connection project]](https://www.rainbowconnection.kr/) [facebook(deactivated)]
+* 김승섭 (고려대 보건정책관리학부) [[rainbow connection project]](https://www.rainbowconnection.kr/) [[facebook]](https://www.facebook.com/seungsup.kim.37)
 * 김창환 (Univ. of Kansas 사회학과) [[blog]](https://sovidence.tistory.com/)
 * 김태용 (1인 크리에이터) [[스타트업/실리콘밸리 인터뷰 프로젝트]](https://www.facebook.com/tyzapzi) [[facebook]](https://www.facebook.com/taeyong.kim.980)
 * 백산 (AWAIR) [[blog]](https://sanbaek.com/) [[facebook]](https://www.facebook.com/profile.php?id=100001623975844) 

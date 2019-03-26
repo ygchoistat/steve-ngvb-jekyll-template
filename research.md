@@ -23,11 +23,11 @@ permalink: /research/
 ### International journals
 
 
-* [7] __Choi, Y.-G.__, Choi, S. J. & Lim, J. (2019+). High-dimensional Markowitz portfolio optimization problem: Empirical comparison of covariance matrix estimators. 
-To appear in *the Journal of Statistical Computation and Simulation*. [Link](https://www.tandfonline.com/doi/full/10.1080/00949655.2019.1577855)
-* [6] __Choi, Y.-G.__, Roy, A., Park, J. & Lim, J. (2019 May). Fixed support positive-definite modification of covariance matrix estimators via linear shrinkage. 
+* [7] __Choi, Y.-G.__, Roy, A., Park, J. & Lim, J. (2019 May). Fixed support positive-definite modification of covariance matrix estimators via linear shrinkage. 
 To appear in *Journal of Multivariate Analysis*, 171, 234-249.  [Link](https://doi.org/10.1016/j.jmva.2018.12.002)
-* [5] __Choi, Y.-G.__, Tsai, W.-Y., & Paik, M. C. (2019 Apr). Generalized class of test statistic for testing quasi-independence in left-truncated and right-censored data. To appear in *Statistica Sinica*, 29(2). [Link](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2017-0010_na.pdf)
+* [6] __Choi, Y.-G.__, Tsai, W.-Y., & Paik, M. C. (2019 Apr). Generalized class of test statistic for testing quasi-independence in left-truncated and right-censored data. To appear in *Statistica Sinica*, 29(2). [Link](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2017-0010_na.pdf)
+* [5] __Choi, Y.-G.__, Choi, S. J. & Lim, J. (2019 Mar). High-dimensional Markowitz portfolio optimization problem: Empirical comparison of covariance matrix estimators. 
+*Journal of Statistical Computation and Simulation*, 89(7), 1278-1300. [Link](https://www.tandfonline.com/doi/full/10.1080/00949655.2019.1577855)
 * [4] Kwon, Y., __Choi, Y.-G.__, Park, T., Ziegler, A., & Paik, M. C. (2017 Feb). Generalized estimating equations with stabilized working correlation structure. Computational Statistics & Data Analysis, 106, 1–11. [Link](https://doi.org/10.1016/j.csda.2016.08.016)
 * [3] __Choi, Y.-G.__, Ng, C. T., & Lim, J. (2017 Jan). Regularized LRT for large scale covariance matrices: One sample problem. Journal of Statistical Planning and Inference, 180, 108–123. [Link](https://doi.org/10.1016/j.jspi.2016.06.006)
 * [2] Nguyen, H. T. et al. Lee, D. K., __Choi, Y.-G.__, Min, J. E., Yoon, S. J., Yu, Y. H., … Park, J. H. (2016 May). A 1H NMR-based metabolomics approach to evaluate the geographical authenticity of herbal medicine and its application in building a model effectively assessing the mixing proportion of intentional admixtures: A case study of Panax ginseng. Metabolomics fo. Journal of Pharmaceutical and Biomedical Analysis, 124, 120–128. [Link](https://doi.org/10.1016/j.jpba.2016.02.028)
