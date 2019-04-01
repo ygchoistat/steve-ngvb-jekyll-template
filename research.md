@@ -15,7 +15,7 @@ permalink: /research/
 
 ### Working papers 
 
-* __Choi, Y.-G.__ Hanrahan, L. H. and Norton, D. & Zhao, Y.-Q. (2018). Penalty-based outlier detection and prevalence smoothing for regional childhood obesity surveillance from electronic health records. *Submitted*. [arXiv](https://arxiv.org/abs/1804.05430)
+* __Choi, Y.-G.__ Hanrahan, L. H. and Norton, D. & Zhao, Y.-Q. (2018). Simultaneous disease mapping and hot spot detection with application to childhood obesity surveillance from electronic health records. *Submitted*. [arXiv](https://arxiv.org/abs/1804.05430)
 * Hypothesis testings on individualized treatment rules from high-dimensional observational studies. (with Y. Zhao and Y. Ning)
 * Precision matrix estimation recovering both sparse and dense signals, with GPU parallelization (with D. Yu)
 
@@ -24,8 +24,8 @@ permalink: /research/
 
 
 * [7] __Choi, Y.-G.__, Roy, A., Park, J. & Lim, J. (2019 May). Fixed support positive-definite modification of covariance matrix estimators via linear shrinkage. 
-To appear in *Journal of Multivariate Analysis*, 171, 234-249.  [Link](https://doi.org/10.1016/j.jmva.2018.12.002)
-* [6] __Choi, Y.-G.__, Tsai, W.-Y., & Paik, M. C. (2019 Apr). Generalized class of test statistic for testing quasi-independence in left-truncated and right-censored data. To appear in *Statistica Sinica*, 29(2). [Link](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2017-0010_na.pdf)
+*Journal of Multivariate Analysis*, 171, 234-249.  [Link](https://doi.org/10.1016/j.jmva.2018.12.002)
+* [6] __Choi, Y.-G.__, Tsai, W.-Y., & Paik, M. C. (2019 Apr). Generalized class of test statistic for testing quasi-independence in left-truncated and right-censored data. To appear in *Statistica Sinica*, 29(2), 789-808.  [Link](http://www3.stat.sinica.edu.tw/statistica/J29N2/J29N212/J29N212.html)
 * [5] __Choi, Y.-G.__, Choi, S. J. & Lim, J. (2019 Mar). High-dimensional Markowitz portfolio optimization problem: Empirical comparison of covariance matrix estimators. 
 *Journal of Statistical Computation and Simulation*, 89(7), 1278-1300. [Link](https://www.tandfonline.com/doi/full/10.1080/00949655.2019.1577855)
 * [4] Kwon, Y., __Choi, Y.-G.__, Park, T., Ziegler, A., & Paik, M. C. (2017 Feb). Generalized estimating equations with stabilized working correlation structure. Computational Statistics & Data Analysis, 106, 1–11. [Link](https://doi.org/10.1016/j.csda.2016.08.016)
